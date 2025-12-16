@@ -1,0 +1,54 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{4}{section.1}%
+\contentsline {section}{\numberline {2}La idea fundamental}{4}{section.2}%
+\contentsline {section}{\numberline {3}La estructura inicial}{5}{section.3}%
+\contentsline {section}{\numberline {4}La misión de cada pieza}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Los peones}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}El caballo de g8 (en la Variante Avanzada)}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}El alfil de c8: la estrella de la Caro--Kann}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}El caballo de b8}{7}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}La torre de a8 y el flanco de dama}{8}{subsection.4.5}%
+\contentsline {section}{\numberline {5}La Variante Avanzada (3.e5)}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}La línea principal}{8}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}El plan negro: presión sistemática}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Líneas críticas y errores comunes}{9}{subsection.5.3}%
+\contentsline {section}{\numberline {6}La Variante de Intercambio (3.exd5)}{10}{section.6}%
+\contentsline {subsection}{\numberline {6.1}La estructura simétrica}{10}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}El plan típico}{10}{subsection.6.2}%
+\contentsline {section}{\numberline {7}La Variante Clásica (3.Nc3)}{11}{section.7}%
+\contentsline {subsection}{\numberline {7.1}La teoría y la realidad}{11}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Los principios básicos}{11}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Variante alternativa: 3.Nd2}{12}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Trampas tácticas a conocer}{12}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Trampa \#1: El alfil en g4 clavado}{12}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Trampa \#2: El peón de d4 envenenado}{12}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Trampa \#3: El enroque prematuro}{13}{subsection.8.3}%
+\contentsline {section}{\numberline {9}Planes típicos en el medio juego}{13}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Plan A: Presión sobre d4}{13}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Plan B: Ataque de minorías}{13}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Plan C: Simplificaciones}{13}{subsection.9.3}%
+\contentsline {section}{\numberline {10}Finales típicos de la Caro--Kann}{14}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Finales de peones}{14}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Finales de torres}{14}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Finales de alfiles de distinto color}{14}{subsection.10.3}%
+\contentsline {section}{\numberline {11}Cómo estudiar la Caro--Kann}{14}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Paso 1: Entender los planes (no memorizar)}{14}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Paso 2: Jugar partidas de práctica}{14}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}Paso 3: Analizar con motor}{14}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4}Paso 4: Estudiar partidas de maestros}{15}{subsection.11.4}%
+\contentsline {section}{\numberline {12}Transiciones a otras aperturas}{15}{section.12}%
+\contentsline {section}{\numberline {13}Trucos y celadas en la Caro--Kann}{15}{section.13}%
+\contentsline {subsection}{\numberline {13.1}El Mate del Caballo}{16}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Debilitando la diagonal h5--e8}{17}{subsection.13.2}%
+\contentsline {subsection}{\numberline {13.3}Exceso de ambición: La trampa del alfil en b3}{17}{subsection.13.3}%
+\contentsline {subsection}{\numberline {13.4}Inspirados en el Mate de Legal}{18}{subsection.13.4}%
+\contentsline {subsection}{\numberline {13.5}La trampa de Cg5 y Ce6}{19}{subsection.13.5}%
+\contentsline {subsection}{\numberline {13.6}Peligro con el alfil en g4 temprano}{20}{subsection.13.6}%
+\contentsline {subsection}{\numberline {13.7}La trampa de Ac4 y De2}{21}{subsection.13.7}%
+\contentsline {section}{\numberline {14}Errores comunes a evitar}{21}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Error \#1: Jugar e6 demasiado pronto}{21}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}Error \#2: Desarrollo automático sin plan}{22}{subsection.14.2}%
+\contentsline {subsection}{\numberline {14.3}Error \#3: Ignorar c5}{22}{subsection.14.3}%
+\contentsline {subsection}{\numberline {14.4}Error \#4: Miedo a simplificar}{22}{subsection.14.4}%
+\contentsline {subsection}{\numberline {14.5}Error \#5: Perder la paciencia}{22}{subsection.14.5}%
+\contentsline {section}{\numberline {15}Conclusión}{22}{section.15}%
