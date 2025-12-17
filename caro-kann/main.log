@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.16)  16 DEC 2025 16:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.12.16)  16 DEC 2025 23:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -975,7 +975,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.25 ... El enroque prematuro}{12}{subsection.8.3}
+l.25 ... El enroque prematuro}{13}{subsection.8.3}
                                                   % [1]
 LaTeX Info: Redefining \. on input line 54.
 LaTeX Info: Redefining \% on input line 54.
@@ -1479,8 +1479,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-11.11996pt}.
 
 [21]
-LaTeX Info: Redefining \. on input line 788.
-LaTeX Info: Redefining \% on input line 788.
+LaTeX Info: Redefining \. on input line 787.
+LaTeX Info: Redefining \% on input line 787.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1489,18 +1489,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-11.67947pt}.
 
-[22]
-LaTeX Info: Redefining \. on input line 791.
-LaTeX Info: Redefining \% on input line 791.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 23.67947pt, for example:
-(fancyhdr)                \setlength{\headheight}{23.67947pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-11.67947pt}.
-
-[23] (main.aux
+[22] (main.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -1516,8 +1505,8 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8BEC095C05F751ADF0C6316F99408C52;10904.
  ) 
 Here is how much of TeX's memory you used:
- 30136 strings out of 474486
- 576393 string characters out of 5743754
+ 30135 strings out of 474486
+ 576386 string characters out of 5743754
  1970542 words of memory out of 5000000
  51865 multiletter control sequences out of 15000+600000
  624685 words of font info for 72 fonts, out of 8000000 for 9000
@@ -1535,9 +1524,9 @@ Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Grunt/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Grunt/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/Grunt/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (24 pages, 342382 bytes).
+Output written on main.pdf (23 pages, 341207 bytes).
 PDF statistics:
- 466 PDF objects out of 1000 (max. 8388607)
- 93 named destinations out of 1000 (max. 500000)
+ 462 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
  437 words of extra memory for PDF output out of 10000 (max. 10000000)
 
